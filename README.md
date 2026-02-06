@@ -23,27 +23,19 @@ More than 1 in 4 customers leave, indicating a material retention risk.
 **Who Is Most Likely to Churn**
 
 The following customer groups show significantly higher churn risk:
-	•	**Senior citizens**
-Higher sensitivity to pricing and service issues.
-	•	**Customers without partners or dependent**
-Fewer switching barriers and lower commitment.
-	•	**Customers in their first 12 months**
-Churn is highest early in the customer lifecycle, indicating onboarding and expectation gaps.
+	1 **Senior citizens** : Higher sensitivity to pricing and service issues.
+	2 **Customers without partners or dependent** :Fewer switching barriers and lower commitment.
+	3 **Customers in their first 12 months** : Churn is highest early in the customer lifecycle, indicating onboarding and expectation gaps.
 
 
 **Behavioral Drivers of Churn**
 
 Churn is driven by how customers pay, what they pay, and how committed they are:
-	•	**High monthly charges**
-Customers paying above-average prices churn more, especially early in their tenure.
-	•	**Month-to-month contracts**
-These customers churn at much higher rates than those on 1- or 2-year contracts.
-	•	**Fiber optic internet users**
-Higher expectations combined with higher pricing increase dissatisfaction risk.
-	•	**Lack of tech support**
-Customers without access to support churn more frequently.
-	•	**Payment method matters**
-Customers paying via electronic check churn the most, followed by mailed checks.
+	•	**High monthly charges** : Customers paying above-average prices churn more, especially early in their tenure.
+	•	**Month-to-month contracts** : These customers churn at much higher rates than those on 1- or 2-year contracts.
+	•	**Fiber optic internet users** : Higher expectations combined with higher pricing increase dissatisfaction risk.
+	•	**Lack of tech support** : Customers without access to support churn more frequently.
+	•	**Payment method matters** : Customers paying via electronic check churn the most, followed by mailed checks.
 
 **What the Tenure vs Pricing Analysis Reveals**
 
